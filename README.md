@@ -1,4 +1,4 @@
-# Replicate - 組合語言文件複製工具
+# Replicate - 文件複製工具
 
 ## 程式簡介
 
