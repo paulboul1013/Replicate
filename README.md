@@ -339,8 +339,7 @@ test_replicate/
 
 ### source.txt
 ```
-paulboul1013
-kkk
+paul says hello to you
 ```
 
 ### 執行後
