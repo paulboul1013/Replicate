@@ -7,7 +7,7 @@
 ## 功能特點
 
 - 讀取源文件 source.txt 的內容
-- 遞歸遍歷目標目錄 /home/paulboul/test_replicate
+- 遞歸遍歷目標目錄 /path/to/test_folder
 - 將源文件內容寫入目標目錄下的所有文件
 - 支持任意深度的子目錄結構
 - 純組合語言實現，無外部依賴
