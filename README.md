@@ -387,8 +387,6 @@ strace ./replicate 2>&1 | grep -E "(open|read|write)"
 ```
 
 ## 學習資源
-
-- Linux System Call Table: https://syscalls.kernelgrok.com/
 - x86 Assembly Guide: https://www.cs.virginia.edu/~evans/cs216/guides/x86.html
 - NASM Documentation: https://www.nasm.us/xdoc/2.15.05/html/nasmdoc0.html
 
